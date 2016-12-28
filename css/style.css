@@ -1,0 +1,126 @@
+*{
+	margin]:0;
+	padding:0
+}
+.main{
+	width: 960px;
+    margin: auto;
+}
+.bg-1{
+    background: #16225c;
+    height: 68px;
+    width: 100%;
+}
+.menu ul{
+	margin:0;
+	padding:0
+}
+.menu ul li{
+	float:left;
+	list-style:none
+}
+.menu ul li a{
+    padding: 10px 50px;
+    display: block;
+    margin-top: 12px;
+    color: #3fb5af;
+    font-size: 20px;
+    text-decoration: none;
+}
+.menu ul li a:hover{color:white}
+.background{    
+	height: 435px;
+    width: 100%;}
+.background img{
+	height: 435px;
+    width: 100%;
+}
+.bg{
+    height: 435px;
+    width: 100%;
+    background: rgba(0, 0, 5, 0.61);
+    position: absolute;
+    margin-top: -435px;
+}
+.demo{
+	height: 300px;
+    width: 400px;
+    position: absolute;
+    margin-top: -360px;
+	margin-left: 493px;
+
+}
+.demo h2{
+	color: white;
+    font-size: 68px;
+	    background: black;
+}
+.demo p{
+    color: white;
+    font-size: 25px;
+    margin-top: 1px;
+    position: absolute;
+    background: black;
+}
+.demoo{
+	    text-align: center;
+}
+.demoo i{}
+.demoo h2{}
+.demoo p{}
+.first_1{}
+.first_1 img{
+	    height: 234px;
+    width: 263px;
+    margin-top: 31px;
+}
+.footer{
+	background: #16225c;
+    height: 50px;
+    text-align: center;
+}
+.footer p{
+	    color: white;
+    padding: 10px 10px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
